@@ -14,7 +14,15 @@
   "author": "Robert Vásquez <vasquez.robert.andres@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-trabalen": "./bin/global.js"
+    "random-trabalen": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-ds/npm-random-trabalen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robert-ds/npm-random-trabalen/issues"
+  },
+  "homepage": "https://github.com/robert-ds/npm-random-trabalen#readme"
 }
