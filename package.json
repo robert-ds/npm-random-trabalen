@@ -1,0 +1,20 @@
+{
+  "name": "random-trabalengua",
+  "version": "1.0.0",
+  "description": "Generador de tabalenguas random",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Robert Vásquez <vasquez.robert.andres@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-trabalen": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
