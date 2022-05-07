@@ -14,7 +14,7 @@
   "author": "Robert Vásquez <vasquez.robert.andres@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-trabalen": "bin/global.js"
+    "random-trabalengua": "bin/global.js"
   },
   "preferGlobal": true,
   "repository": {
